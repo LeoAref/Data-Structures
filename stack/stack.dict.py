@@ -1,5 +1,5 @@
 """
-Stack Data Structure using Dict as a storage
+Stack Data Structure using Dict as a storage.
 """
 
 class Stack:
