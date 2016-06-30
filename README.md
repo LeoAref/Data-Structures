@@ -27,11 +27,11 @@ $ ./testpy.sh
 
 ### Writing tests:
 - JavaScript:
--- We are using `Jasmine` framework for writing the unit tests.
--- Test file name convention: Add suffix`_spec` to the data structure name (i.e. `array_spec.js`).
+  - We are using `Jasmine` framework for writing the unit tests.
+  - Test file name convention: Add suffix`_spec` to the data structure name (i.e. `array_spec.js`).
 
 - Python:
--- We are using `unittest` standard Python library for writing the unit tests.
--- Test file name convention: Add prefix `test_` to the data structure name (i.e. `test_array.py`).
+  - We are using `unittest` standard Python library for writing the unit tests.
+  - Test file name convention: Add prefix `test_` to the data structure name (i.e. `test_array.py`).
 
 
