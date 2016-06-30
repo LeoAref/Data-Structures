@@ -2,7 +2,7 @@ describe('Stack DT using Object as a storage', function () {
 	var stack;
 
 	beforeAll(function () {
-		Stack = require('./stack.object');
+		Stack = require('./stack_object');
 	});
 
 	it('Should show an error with negative capacity values', function () {
