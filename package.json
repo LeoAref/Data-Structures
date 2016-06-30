@@ -1,0 +1,25 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "Sharing the data structure implementations using different programming languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine JASMINE_CONFIG_PATH=jasmine.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoAref/Data-Structures.git"
+  },
+  "keywords": [
+    "data-structures",
+    "javascript",
+    "python",
+    "ADT"
+  ],
+  "author": "Muhammad Aref <muh.aref@live.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoAref/Data-Structures/issues"
+  },
+  "homepage": "https://github.com/LeoAref/Data-Structures#readme"
+}
