@@ -5,3 +5,9 @@ This repository is for sharing the data structure implementations using differen
 ### Current languages:
 - JavaScript
 - Python
+
+### Run JavaScript tests:
+```bash
+$ npm install -g jasmine
+$ npm test
+```
