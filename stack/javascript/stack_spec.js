@@ -1,4 +1,4 @@
-describe('Stack DT using Object as a storage', function () {
+describe('Stack Data Structure using an object as a storage', function () {
 	var stack;
 
 	beforeAll(function () {

@@ -1,7 +1,7 @@
 import unittest
 from .stack_dict import Stack
 
-class StackWithDictTest(unittest.TestCase):
+class StackByDictTest(unittest.TestCase):
 	def test_negative_capacity_values(self):
 		try:
 			stack = Stack(-9)
